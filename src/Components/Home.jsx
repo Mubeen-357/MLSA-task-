@@ -22,7 +22,7 @@ import PropTypes from "prop-types";
  */
 import image from "../images/img1.jpg";
 
-const imageAltText = "Mubeen Mahmood, Web developer and content creator "; 
+const imageAltText = "Mubeen Mahmood, Web developer and content creator "
 const Home = ({ name, title }) => {
   return (
     <section id="home" className="min-height">
