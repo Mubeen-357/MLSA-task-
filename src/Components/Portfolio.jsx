@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/img3.png";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "technical support";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: " Calculator website",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This is a simple calculator that can be used to perforn mathimatical operations",
+    url: "https://www.online-calculator.com/ ",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Quiz Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      " Keeping in mind the modern day virtualication and the world moving towords performing tasks remotly, the following software was developedThis is a platform for conductinging online quizes..",
+    url: "https://www.jetpunk.com/",
   },
   {
-    title: "My Resume Site",
+    title: "Text to handwriting website ",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This is an online text to Handwriting converter which takes plane text and converts it into human handwriting.",
+    url: "https://www.textreverse.com/text-to-handwriting-converter.php",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Online video downloading website  ",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This tool can be used to download free online videos",
+    url: "https://www.savethevideo.com/home",
   },
 ];
 
